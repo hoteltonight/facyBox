@@ -1,0 +1,20 @@
+{
+  "name": "facyBox",
+  "version": "1.0.0",
+  "description": "facybox ======= Demo: [facybox homepage](http://bitbonsai.com/facybox/) or open index.html.   Need help?  Join the [Original Facebox Google Groups mailing list](http://groups.google.com/group/facebox/)",
+  "main": "facybox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoteltonight/facyBox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoteltonight/facyBox/issues"
+  },
+  "homepage": "https://github.com/hoteltonight/facyBox#readme"
+}
